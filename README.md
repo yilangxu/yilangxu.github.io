@@ -2,7 +2,7 @@
 
 A lightweight static academic website inspired by the structure and minimalist visual language of Tong Bo's public academic homepage, optimized for very fast deployment on GitHub Pages.
 
-## Fastest deployment (about 2 minutes)
+## Fastest deployment
 
 1. On GitHub, create a **public** repository named `YOUR_GITHUB_USERNAME.github.io`.
 2. Upload **all files and folders in this directory** to the repository root (do not upload the enclosing folder itself).
@@ -26,7 +26,7 @@ git push -u origin main
 
 Then enable GitHub Pages from `main` / root as above.
 
-## Important 30-second edits
+## Important edits
 
 - **Current status:** `index.html` currently says "Incoming Postdoctoral Fellow · Georgia Institute of Technology" and uses future tense. After the appointment begins, change this to "Postdoctoral Fellow · Georgia Institute of Technology" and update the About sentence to present tense.
 - **Email:** the Email link opens a message to `yilangxu@outlook.com`.
