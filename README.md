@@ -31,7 +31,7 @@ Then enable GitHub Pages from `main` / root as above.
 - **Current status:** `index.html` currently says "Incoming Postdoctoral Fellow · Georgia Institute of Technology" and uses future tense. After the appointment begins, change this to "Postdoctoral Fellow · Georgia Institute of Technology" and update the About sentence to present tense.
 - **Email:** the Email link opens a message to `yilangxu@outlook.com`.
 - **Photo and research figures:** the supplied avatar and three research figures are stored locally in `assets/`, so the site does not depend on external image links.
-- **CV:** replace `assets/CV-Yilang Xu-20260916.pdf` whenever you update the PDF; no HTML edit is needed.
+- **CV:** replace `assets/CV-Yilang Xu.pdf` whenever you update the PDF; no HTML edit is needed.
 - **Custom domain:** if you later buy a domain, GitHub Pages can attach it under Settings → Pages → Custom domain.
 
 ## Structure
