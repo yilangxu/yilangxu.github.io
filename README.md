@@ -1,15 +1,15 @@
 # Yilang Xu academic website
 
-A lightweight static academic website inspired by the structure and minimalist visual language of Tong Bo's public academic homepage, optimized for very fast deployment on GitHub Pages.
+A lightweight static academic website inspired by the structure and minimalist visual language of Tong Bo's public academic homepage (https://tong-bo.github.io/), optimized for very fast deployment on GitHub Pages.
 
 ## Fastest deployment
 
-1. On GitHub, create a **public** repository named `yilangxu.github.io`.
+1. On GitHub, create a **public** repository named `YOUR_GITHUB_USERNAME.github.io`.
 2. Upload **all files and folders in this directory** to the repository root (do not upload the enclosing folder itself).
 3. Go to **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Choose `main` and `/ (root)`, then **Save**.
-6. Wait roughly 1–3 minutes and open `https://yilangxu.github.io/`.
+6. Wait roughly 1–3 minutes and open `https://YOUR_GITHUB_USERNAME.github.io/`.
 
 No Hugo, Node, Python, or GitHub Action is required.
 
