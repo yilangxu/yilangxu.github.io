@@ -9,7 +9,7 @@ A lightweight static academic website inspired by the structure and minimalist v
 3. Go to **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Choose `main` and `/ (root)`, then **Save**.
-6. Wait roughly 1–3 minutes and open `https://YOUR_GITHUB_USERNAME.github.io/`.
+6. Wait roughly 1–3 minutes and open `https://yilangxu.github.io/`.
 
 No Hugo, Node, Python, or GitHub Action is required.
 
