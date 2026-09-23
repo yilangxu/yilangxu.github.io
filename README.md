@@ -45,7 +45,7 @@ Then enable GitHub Pages from `main` / root as above.
 - `assets/favicon.svg` — favicon
 - `assets/avatar.jpg` — profile photo
 - `assets/research-*.jpg/png` — research project images
-- `assets/CV-Yilang Xu.pdf` — downloadable CV
+- `assets/CV-Yilang_Xu.pdf` — downloadable CV
 
 ## Data sources used to populate the first version
 
