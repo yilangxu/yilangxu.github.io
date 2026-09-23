@@ -4,7 +4,7 @@ A lightweight static academic website inspired by the structure and minimalist v
 
 ## Fastest deployment
 
-1. On GitHub, create a **public** repository named `YOUR_GITHUB_USERNAME.github.io`.
+1. On GitHub, create a **public** repository named `yilangxu.github.io`.
 2. Upload **all files and folders in this directory** to the repository root (do not upload the enclosing folder itself).
 3. Go to **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
